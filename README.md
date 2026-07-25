@@ -1,0 +1,1 @@
+It consists of programs in Lex as part of our s7 cse compiler lab.Some of the programs included are implementation of lexical analyser(analysing the tokens),identifyin whether its valid identifier or not and so on
